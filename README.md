@@ -53,8 +53,7 @@ ros2 topic pub --once /cmd_vel geometry_msgs/msg/Twist "{linear: {x: 0.0, y: 0.0
 
 ## DEMO
 
-
-
+<img width="437" height="295" alt="Screenshot from 2026-03-16 13-38-41" src="https://github.com/user-attachments/assets/0ee533d4-f2b0-4d5e-968e-55c4f2efeac9" />
 
 
 
